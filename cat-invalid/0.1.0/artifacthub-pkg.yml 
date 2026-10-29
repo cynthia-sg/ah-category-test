@@ -1,0 +1,6 @@
+version: 0.1.0
+name: cat-invalid
+displayName: cat-invalid
+createdAt: "2026-10-29T00:00:00Z"
+description: Test package with an invalid category
+category: foo
