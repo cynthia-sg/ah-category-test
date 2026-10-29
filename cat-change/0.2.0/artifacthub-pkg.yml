@@ -1,0 +1,6 @@
+version: 0.2.0
+name: cat-change
+displayName: cat-change
+createdAt: "2026-10-29T00:00:00Z"
+description: Scale workloads based on PostgreSQL database queries
+category: analytics
